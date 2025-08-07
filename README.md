@@ -63,15 +63,6 @@ Generate images from GenEval prompts
 python inference_geneval_dpgbench.py --eval_geneval --output_dir "./outputs" --local_checkpoint_path XXXXX
 ```
 
-Generate images from DPGBench prompts
-
-```
-python inference_geneval_dpgbench.py --eval_dpgbench --output_dir "./outputs" --local_checkpoint_path XXXXX
-```
-
-
-
-
 
 # 📚 BibTeX
 
