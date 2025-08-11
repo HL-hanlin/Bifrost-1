@@ -69,6 +69,15 @@ python inference_geneval_dpgbench.py --eval_geneval --output_dir "./outputs" --l
 🌟 Please let us know in the issues or PRs if there's any questions. If you find our project useful in your research or application development, citing our paper would be the best support for us! 
 
 ```
+@misc{lin2025bifrost1bridgingmultimodalllms,
+      title={Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents}, 
+      author={Han Lin and Jaemin Cho and Amir Zadeh and Chuan Li and Mohit Bansal},
+      year={2025},
+      eprint={2508.05954},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.05954}, 
+}
 ```
 
 # 🙏 Acknowledgements
