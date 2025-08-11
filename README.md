@@ -3,7 +3,7 @@
 Official implementation of **Bifrost-1**, a unified framework that bridges pretrained multimodal LLMs (MLLMs) and diffusion models using patch-level CLIP image embeddings as implicit 2D image priors, which are natively aligned with the MLLM’s CLIP visual encoder. 
 
 
-[![arXiv](https://img.shields.io/badge/ArXiv-Bifrost1-orange)](https://arxiv.org/abs/) 
+[![arXiv](https://img.shields.io/badge/ArXiv-Bifrost1-orange)](https://arxiv.org/abs/2508.05954) 
 [![projectpage](https://img.shields.io/badge/Project-Page-green)](https://bifrost-1.github.io/)
 [![checkpoints](https://img.shields.io/badge/Model-Checkpoints-blue)](https://huggingface.co/hanlincs/Bifrost-1)
 
