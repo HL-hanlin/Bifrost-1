@@ -1,4 +1,4 @@
-# Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents
+# Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents (NeurIPS 2025)
 
 Official implementation of **Bifrost-1**, a unified framework that bridges pretrained multimodal LLMs (MLLMs) and diffusion models using patch-level CLIP image embeddings as implicit 2D image priors, which are natively aligned with the MLLM’s CLIP visual encoder. 
 
